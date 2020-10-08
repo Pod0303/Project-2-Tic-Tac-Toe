@@ -6,4 +6,4 @@
 
 ![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%201.jpg)
 ![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%202.jpg)
-![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%203.jpg)
+
